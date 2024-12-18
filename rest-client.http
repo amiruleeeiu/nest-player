@@ -1,0 +1,16 @@
+GET http://localhost:3000
+
+### find.songs.request
+GET http://localhost:3000/songs
+
+### create.songs.request
+GET http://localhost:3000/songs/1 
+
+### create.songs.request
+PUT http://localhost:3000/songs/1 
+
+### create.songs.request
+DELETE http://localhost:3000/songs/1 
+
+### create.songs.request
+POST http://localhost:3000/songs 
